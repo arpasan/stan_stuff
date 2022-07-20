@@ -5,3 +5,4 @@ Modeling examples I find interesting using Stan anything.
 * [Some Preliminary Thoughts on Rankings: `rstanarm`, `stan_clogit`](https://arpasan.github.io/stan_stuff/just.html)
 * [DK & SE - Time Series on Covid-19 Data Using Stan: `stan_glm`](https://arpasan.github.io/stan_stuff/cdss2020_kyb_aa_abridged.html)
 * [Hands-on Bayesianism: Frequentist VS Bayesian Regression](https://arpasan.github.io/stan_stuff/stan_lm_intro.html)
+* [Predicting Credit Card Fraud: ML VS Bayes](https://arpasan.github.io/stan_stuff/stan_lm_intro.html)
